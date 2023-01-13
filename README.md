@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 💼 I'm QA Engineer
 - 🌱 I’m currently learning Java Automation on QA.GURU
-- 📫 How to reach me: @xenia_bogatko <code><img width="3%" title="Telegram" src="./media/icons/Telegram.svg"></code>
+- 📫 How to reach me: @xenia_bogatko on telegram
 
 ### Tools and technologies:
 <p  align="center">
