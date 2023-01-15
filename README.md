@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=pilulka-project)](https://github.com/XeniaBogatko/pilulka-project)
 
 #### :heavy_check_mark: API Autotests
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=api-tests)](https://github.com/XeniaBogatko/api-tests)
 
 #### :heavy_check_mark: Mobile Autotests for Wikipedia app
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=mobile-tests)](https://github.com/XeniaBogatko/mobile-tests)
