@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 </p>
 
 ### My projects:
-#### :heavy_check_mark: UI Autotests for pilulka.cz website
+#### :heavy_check_mark: UI Autotests for [pilulka.cz](https://www.pilulka.cz/) website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=pilulka-project)](https://github.com/XeniaBogatko/pilulka-project)
 
-#### :heavy_check_mark: API Autotests
+#### :heavy_check_mark: API Autotests for [reqres.in](https://reqres.in/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=api-tests)](https://github.com/XeniaBogatko/api-tests)
 
-#### :heavy_check_mark: Mobile Autotests for Wikipedia app
+#### :heavy_check_mark: Mobile Autotests for Wikipedia mobile app
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=mobile-tests)](https://github.com/XeniaBogatko/mobile-tests)
