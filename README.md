@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 #### :heavy_check_mark: API Autotests for [reqres.in](https://reqres.in/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=api-tests)](https://github.com/XeniaBogatko/api-tests)
 
-#### :heavy_check_mark: Mobile Autotests for Wikipedia mobile app
+#### :heavy_check_mark: Mobile Autotests for Wikipedia mobile application
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=mobile-tests)](https://github.com/XeniaBogatko/mobile-tests)
