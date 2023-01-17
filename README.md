@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 💼 I'm QA Engineer
 - 🌱 I’m currently learning Java Automation on QA.GURU
-- 📫 How to reach me: <code><img width="2%" title="Telegram" src="./media/icons/Telegram.svg"></code> @xenia_bogatko
+- 📫 How to reach me: @xenia_bogatko on telegram
 
 ### Tools and technologies:
 <p  align="center">
@@ -41,10 +41,11 @@ Here are some ideas to get you started:
 </p>
 
 ### My projects:
-#### :heavy_check_mark: UI Autotests for pilulka.cz website
+#### :heavy_check_mark: UI Autotests for [pilulka.cz](https://www.pilulka.cz/) website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=pilulka-project)](https://github.com/XeniaBogatko/pilulka-project)
 
-#### :heavy_check_mark: API Autotests
+#### :heavy_check_mark: API Autotests for [reqres.in](https://reqres.in/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=api-tests)](https://github.com/XeniaBogatko/api-tests)
 
-#### :heavy_check_mark: Mobile Autotests for Wikipedia app
+#### :heavy_check_mark: Mobile Autotests for Wikipedia mobile application
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XeniaBogatko&repo=mobile-tests)](https://github.com/XeniaBogatko/mobile-tests)
