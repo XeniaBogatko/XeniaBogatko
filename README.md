@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Xenia 👋
 
 <!--
 **XeniaBogatko/XeniaBogatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <code><img width="5%" title="AndroidStudio" src="./media/icons/Android-studio.svg"></code>
   <code><img width="5%" title="Appium" src="./media/icons/Appium.svg"></code>
   <code><img width="5%" title="Browserstack" src="./media/icons/Browserstack.svg"></code>
+  <code><img width="5%" title="Jira" src="./media/icons/RestAssured.svg"></code>
   <code><img width="5%" title="Jira" src="./media/icons/Jira.svg"></code>
   <code><img width="5%" title="Telegram" src="./media/icons/Telegram.svg"></code>
 </p>
